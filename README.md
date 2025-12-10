@@ -2,10 +2,6 @@
 
 Expert Advisor hedging scalping untuk XAUUSD (Gold) dengan modal minimum $10. Strategi MA Crossover (9/21) + RSI konfirmasi + hedging logic untuk lock volatility kecil (2-5 pips profit).
 
-[
-[
-[
-
 ## ✨ Fitur Utama
 
 - ✅ **Hedging Scalping**: Buka LONG + SHORT bersamaan untuk lock profit
