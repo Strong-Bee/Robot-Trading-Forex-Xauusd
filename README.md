@@ -151,15 +151,3 @@ Respect broker ToS (hedging rules)
 **Happy Trading! 🚀**  
 *Optimized for Indonesian brokers & XAUUSD volatility*  
 [MetaTrader 5](https://www.metatrader5.com) | [MQL5 Community](https://www.mql5.com)
-
-Kutipan:
-[1] Creating an EA template - MQL4/MQL5 Wizard https://www.metatrader5.com/en/metaeditor/help/mql5_wizard/wizard_ea
-[2] MT5 Expert Advisor Template - EarnForex https://www.earnforex.com/metatrader-expert-advisors/mt5-ea-template/
-[3] EarnForex/MT5-Expert-Advisor-Template https://github.com/EarnForex/MT5-Expert-Advisor-Template
-[4] Templates MQL Open Source. Template for Creating Expert Advisor https://expforex.com/templates/
-[5] Build a free MT4 or MT5 expert advisor (EA) https://eabuilderpro.com
-[6] MT5 Expert Advisor Template, Guide | PDF https://www.scribd.com/document/851475984/MT5-Expert-Advisor-Template-Guide
-[7] Code complete EA for MetaTrader 5 in 20 Minutes! https://www.youtube.com/watch?v=_PYOqjXh8NY
-[8] MT5 EA Template | Forex Forum https://www.earnforex.com/forum/threads/mt5-ea-template.49964/
-[9] How to Create an Expert Advisor or an Indicator - MetaTrader 5 https://www.metatrader5.com/en/terminal/help/algotrading/autotrading
-[10] Template MQL Open Source. Template untuk Membuat Expert Advisor https://expforex.com/id/templates/
